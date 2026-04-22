@@ -123,26 +123,35 @@ Model performance is assessed using:
 ---
 ▶️ How to Run
 Clone the repository:
-git clone https://github.com/lrrmrrrk-tech/final-code.git
+git clone https://github.com/username/code.git
 Install dependencies:
 pip install tensorflow scikit-learn imbalanced-learn pandas plotly scipy
 Launch the notebook:
 jupyter notebook code.ipynb
+
+---
+
 🔮 Future Work
 Integration of 3D CNN architectures for volumetric MRI
 Transformer-based medical imaging models
 Longitudinal disease progression modelling
 Deployment as a clinical decision support system
 External validation on diverse datasets
+
+---
+
 ⚠️ Disclaimer
 
 This project is for research and educational purposes only and is not intended for direct clinical application without further validation.
+
+---
 
 👤 Author
 Emiola Samson
 MSc Data Science Project
 Deep Learning · Medical Imaging · Explainable AI
 
+---
 
 🌟 Acknowledgements
 Research community in medical imaging and AI
